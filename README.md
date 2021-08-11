@@ -2,6 +2,12 @@
 
 ### !! This is not the final version !!
 
+## 8/11 update
+
+### We've found that github Destop allows us to upload a bigger file, so you can just unzip hackovid.zip to get everything.
+
+## 8/10 update
+
 #### you can access all code via unzip everything in a file~
 #### (Due to the file size and file amount limit, we can't upload a single file which contain everything.)
 
