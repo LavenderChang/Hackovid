@@ -1,6 +1,12 @@
 # Hackovid
 
-### !! This is not the final version !!
+## !!! THE LATEST VERSION IS IN hackovid_1.0.0.zip !!!
+
+## 8/18 update
+
+### All work is done!!
+
+### After finishing all our works, the file size will be over 100 mb, which is larger than github's limit. To deal with this problem, we take the venv out of our file. To run successfully, do "pip install pygame", "pip install numpy", "pip install opencv-python" and "pip install ffpyplayer". 
 
 ## 8/11 update
 
